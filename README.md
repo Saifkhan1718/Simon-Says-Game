@@ -6,7 +6,7 @@ The game generates a sequence of colors that the player must remember and repeat
 
 
 ## 📸 Preview
-![Simon Says Game](screenshot.png)
+![Simon Says Game](Screenshot.png)
 
 
 
