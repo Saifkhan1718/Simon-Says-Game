@@ -4,6 +4,8 @@ An interactive memory game built using HTML, CSS, and JavaScript.
 
 The game generates a sequence of colors that the player must remember and repeat correctly. With each level, the sequence becomes longer, making the game progressively more challenging.
 
+## 🚀 Live Demo
+🔗 https://saifkhan1718.github.io/Simon-Says-Game/
 
 ## 📸 Preview
 ![Simon Says Game](Screenshot.png)
