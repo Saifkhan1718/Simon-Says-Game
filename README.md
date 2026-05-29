@@ -5,6 +5,11 @@ An interactive memory game built using HTML, CSS, and JavaScript.
 The game generates a sequence of colors that the player must remember and repeat correctly. With each level, the sequence becomes longer, making the game progressively more challenging.
 
 
+## 📸 Preview
+![Simon Says Game](screenshot.png)
+
+
+
 🚀 Features
 
 ✅ Random color sequence generation
